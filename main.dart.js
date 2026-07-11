@@ -108132,7 +108132,7 @@ var $async$rH=A.H(function(a5,a6){if(a5===1){p.push(a6)
 s=q}for(;;)switch(s){case 0:a4.$1(new A.aFh(o))
 q=3
 e=A.bex("https","generativelanguage.googleapis.com","v1beta",null)
-n=new A.ai0(A.b8g("gemini-3.5-flash"),B.Ve,null,null,new A.aj9("AQ.Ab8RN6LaUdBs8Wqfo-9nAd3zwcQdAXtHpfBMWhp3zXr_4XaLtA",null),e,null,null)
+n=new A.ai0(A.b8g("gemini-3.5-flash"),B.Ve,null,null,new A.aj9("AQ.Ab8RN6KVwr7YQ1sHUFuQxczrqt6aeWBeU3Yfd8Lcn0NXP6yZFQ",null),e,null,null)
 s=6
 return A.w(a3.Oz(),$async$rH)
 case 6:m=a6
